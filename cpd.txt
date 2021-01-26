@@ -19,3 +19,25 @@ Tried to upload Leeds Trinity University Reboot Digital account and do the first
 What did I find hard?
 
 Navigate and keep open new apps at the first time ever
+
+
+
+Date of CPD activity
+26/01/2021
+
+CPD activity
+HTML 
+
+
+What have I learnt?
+
+I learnt about HTML Tags and Elements and Tag Breakdown.
+I have a practice on few tasks using differents tags like heading, paragrapth,page break, copy and paste image URL and making links.
+Absolut paths and Relatives paths ways of input an image
+Learned about how to use Lorem Ipsum language.
+
+What did I find hard?
+Using Src code to input image
+
+
+
