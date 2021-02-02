@@ -1,0 +1,21 @@
+a:link {
+    color: #bf60a4;
+  }
+  
+  a:visited {
+    color: red;
+  }
+  
+  a:hover {
+    color: ora#bf60a4;
+    font-size: 32px;
+  }
+  
+  a:focus {
+    color: #7768a8;
+    font-size: 32px;
+  }
+  
+  a:active {
+    color: pink;
+  }
