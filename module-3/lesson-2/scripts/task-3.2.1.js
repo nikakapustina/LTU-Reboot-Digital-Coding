@@ -5,4 +5,4 @@ function sentence() {     //declaring a function
 
 
 
-sentence(): //invoking a function - call a function
+sentence(); //invoking a function - call a function
