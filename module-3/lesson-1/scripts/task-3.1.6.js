@@ -1,18 +1,8 @@
-var mealPrice = ("£32.23");
+let mealPrice = 32.23;
 
-var tip = (mealPrice * 0.10);
+let tip = 10.0;
 
-var totalBill = (mealPrice + tip);
+let tipAmount = ( mealPrice * tip ) / 100;
 
-console.log (totalBill); 
+console.log ( "£" + ( mealPrice + tipAmount ) .toFixed (2)); 
 
-
-
-
-let mealPrice = 40.00;
-
-let tip =12.5;
-
-let tipAmount = mealPrice *tip) /100;
-
-console.log ("£" + (mealPrice + tipAmount).toFixed (2));
