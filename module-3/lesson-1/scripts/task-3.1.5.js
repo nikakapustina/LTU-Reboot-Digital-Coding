@@ -1,7 +1,7 @@
-var firstName = "Nika";
+var firstName = ( "Nika" );
 
-var lastName = "Kapustina";
+var lastName = ( "Kapustina" );
 
-var fullName = Nika + Kapustina;
+var fullName = ( "Nika" + "Kapustina" );
 
 console.log (fullName);
