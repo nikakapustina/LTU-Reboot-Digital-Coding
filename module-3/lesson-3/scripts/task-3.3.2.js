@@ -21,5 +21,4 @@ case "cola" :
 
 }
 
-
 drinkOrder( "x-large", "cola" );
